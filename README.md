@@ -15,3 +15,4 @@ Say we want to rename this project to foo, we would type the following command.
 ```
 sh renameProject.sh foo
 ```
+# alan-partridge-kata
